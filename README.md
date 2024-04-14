@@ -5,7 +5,7 @@ It is a tool that can be used to calculate the total number of people who entere
 
 ## Availability
 
-The passenger counter application is available at [Git Pages - Passenger Counter](https://910629.github.io/Javascript---Passenger-Counter/)
+The passenger counter application is available at [Git Pages - Passenger Counter](https://910629.github.io/Javascript---Passenger-Counter/).
 It is also available at [Netlify - Passenger Counter](https://jspassengercounter.netlify.app/)
 
 ## Usage
