@@ -1,6 +1,6 @@
 # **Javascript - Passenger-Counter**
 
-Jarache Khunyeli first ever Javascript project written in Javascript, HTML and CSS.
+Jarache Khunyeli's first ever Javascript project written in Javascript, HTML and CSS.
 It is a tool that can be used to calculate the total number of people who entered a train/bus/plane station or even the number of passengers who boarded/disembarked the train/bus/plane.
 
 ## Availability
